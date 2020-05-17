@@ -57,10 +57,5 @@ exit 0
 
 **Passo 4.** Salve o arquivo com o conteúdo e submeta um PR ao repositório principal, indo até a tab de `Pull requests` do seu fork e clicando em `New pull request`
 
-P.S.:
-Se quiser testar no seu projeto antes de enviar o PR (aka Pull Pequest), você pode configurar o seu repositório para gerar uma URL com o Jekyll indo até a tab Settings na seção GitHub Pages e deixando-a configurada como a imagem abaixo
-
-![passo-3](https://snag.gy/GVbsZI.jpg)
-
 PS.: Não esqueçam de adicionar seu nome e um link no fim do artigo para que quem ler e quiser algum serviço ou trocar uma ideia com vocês, possam encontrá-los.
 
