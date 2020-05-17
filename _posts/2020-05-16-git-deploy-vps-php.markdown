@@ -58,9 +58,12 @@ git push origin master
 git push deploy master
 ```
 Para visualizar os commits
-```git log --all --graph --decorate --oneline```
+```
+git log --all --graph --decorate --oneline
+```
 
 Caso ocorra algum erro de permissão, execute o hooks/post-receive manualmente
+
 ```
 #cd /var/repo/projeto.git/hooks
 #./post-receive
