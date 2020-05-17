@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 permalink: /sobre/
 description: "Blog Comundade Linux Brasil"
-header-img: "blog/assets/img/logo-linux-brasil.png"
+header-img: "blog/assets/img/linux-distro-logos.jpg"
 ---
 
 # Sobre o blog
