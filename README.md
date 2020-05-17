@@ -1,4 +1,4 @@
-### Blog PHP Brasil
+### Blog Linux Brasil
 
 # Antes de um blog uma base de conhecimentos
 
